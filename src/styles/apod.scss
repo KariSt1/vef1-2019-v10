@@ -14,4 +14,14 @@
     color: #fff;
     text-align: center;
   }
+
+  &__video {
+    width: 0;
+    height: 0;
+
+    &--active {
+      width: 768px;
+      height: 432px;
+    }
+  }
 }
