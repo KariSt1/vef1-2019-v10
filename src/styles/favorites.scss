@@ -1,0 +1,20 @@
+@import "config";
+
+.favorites {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+
+  &__title {
+    margin: $gutter 0;
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+  }
+
+  &__video {
+    width: 768px;
+    height: 432px;
+  }
+}
