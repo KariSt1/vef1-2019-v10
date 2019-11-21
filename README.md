@@ -1,3 +1,10 @@
+# Verkefni 10 í Vefforritun 1
+Kári Steinn aðalsteinsson
+
+Netfang: ksa13@hi.is
+
+---
+
 # Verkefni 10
 
 Útfæra skal vefsíðu sem sækir mynd af handahófi frá NASA. Nota skal öll þau tól sem við höfum séð í vetur. Búið er að setja alla pakka og scriptur í `package.json` og upphafsstillingar fyrir rollup og babel í `rollup.config.js`. Allt útlit er gefið með sass ásamt viðeigandi HTML skrám. Leyfilegt er að breyta því sem gefið er.
